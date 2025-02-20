@@ -1,7 +1,10 @@
 # Olá, Eu sou Ildebrando Moraes👋
 
-E se você olhar longamente para o abismo, o abismo também olha para você. 
-                                                               Nietzsche 
+Me baseio no que o Rei Salomão escreveu:
+
+"O que foi, isso será; o que se fez, isso se fará; não há nada de novo debaixo do sol."
+
+Pensar em algo que ninguem pensou,quantas vezes esta historia ira se repetir?
 
 
 ## 🚀 Sobre Mim
