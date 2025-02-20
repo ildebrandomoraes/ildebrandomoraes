@@ -1,6 +1,6 @@
 # Olá, Eu sou Ildebrando Moraes👋
 
-Me baseio no que o Rei Salomão escreveu:
+Baseio-me no que o Rei Salomão escreveu:
 
 "O que foi, isso será; o que se fez, isso se fará; não há nada de novo debaixo do sol."
 
