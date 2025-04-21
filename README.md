@@ -4,15 +4,13 @@ Baseio-me no que o Rei Salomão escreveu:
 
 "O que foi, isso será; o que se fez, isso se fará; não há nada de novo debaixo do sol."
 
-Pensar em algo que ninguem pensou,quantas vezes esta historia ira se repetir?
-
 
 ## 🚀 Sobre Mim
 
 - 👨‍💻 Atualmente trabalhando como *Suporte pós-vendas*.
 - 🌱 Minha meta diaria é aprender algo satisfatoriamente novo.
 - 💻 Meu foco está em **Analise de Dados**,**Dev Operacional** e **Hardware**.
-- 🔭 Estou trabalhando em projetos de **Data Science** e **automação de processos**.
+- 🔭 Estou trabalhando em projetos de **Infra** e **automação de processos**.
 - 📫 Como me encontrar: [Brandevop@gmail.com](Brandevop@gmail.com)
 - 💬 Me mande uma mensagem! Estou sempre aberto a conversas sobre tecnologia e novos projetos.
 
@@ -36,9 +34,9 @@ Jogos" />
 
 ## 🌱 O que estou aprendendo
 
-- **Data Science** com **Python** e **Pandas**.
+- **IaC** com **Terraform** e **AWS**.
 - **App** com **Docker** e **WebServer**.
-- Melhorar minhas habilidades em **Filter** e **Merges** com **Pandas** e **Matplotlib**.
+- Melhorar minhas habilidades em **Infra** e **Provisionamento**.
 
 ## 📣 Projetos em Destaque
 
