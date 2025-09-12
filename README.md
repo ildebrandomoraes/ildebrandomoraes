@@ -3,8 +3,8 @@
 
 ## 🚀 Sobre Mim
 
-- 👨‍💻 Não preciso saber de tudo,só preciso saber que este tudo existe" 
-- 🌱 Minha meta diaria é conhecer algo complexo.
+- 👨‍💻 Acreditar que é possivel
+- 🌱 Minha meta diaria é conhecer o futuro da tecnologia.
 - 💻 Meu foco está em **AaC**,**IA** e **IOT**.
 - 🔭 Estou trabalhando em projetos de **Cloud** e **Automação**.
 - 📫 Como me encontrar: [Brandevop@gmail.com](Brandevop@gmail.com)
@@ -30,16 +30,16 @@
 ## 🌱 O que estou aprendendo
 
 
-- Fluxos Automatizados em nuvem.
+- Integrações de serviços em nuvem.
 - Melhorar minhas habilidades em **Infra** e **Provisionamento**.
 
 ## 📣 Projetos em Destaque
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [**Projeto 1**: Nome do Projeto]([link_do_projeto](https://github.com/ildebrandomoraes/analisepreditivadeacidentesveiculares.git)) - Descrição breve do projeto.
-- [**Projeto 2**: Nome do Projeto]([link_do_projeto](https://github.com/ildebrandomoraes/mapas_calor.git)) - Descrição breve do projeto.
-- [**Projeto 3**: Nome do Projeto]([link_do_projeto](https://github.com/ildebrandomoraes/criptos.git)) - Descrição breve do projeto.
+- [**Projeto 1**: DispenserMQTT]([link_do_projeto](https://github.com/ildebrandomoraes/analisepreditivadeacidentesveiculares.git)) - Descrição breve do projeto.
+- [**Projeto 2**: Servidor de Automações]([link_do_projeto](https://github.com/ildebrandomoraes/mapas_calor.git)) - Descrição breve do projeto.
+- [**Projeto 3**: Dispositivos em nuvem ]([link_do_projeto](https://github.com/ildebrandomoraes/criptos.git)) - Descrição breve do projeto.
 
 ---
 
