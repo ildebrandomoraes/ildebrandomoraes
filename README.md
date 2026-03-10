@@ -27,27 +27,54 @@
 
 ---
 
-## 🌱 O que estou aprendendo
+## 🌱 O que estou aprendendo atualmente
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/esp32.png" width="60" alt="ESP32"/>
+        <br/>
+        <b>ESP32</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/mqtt.png" width="60" alt="MQTT"/>
+        <br/>
+        <b>MQTT</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60" alt="AWS Lambda"/>
+        <br/>
+        <b>AWS Lambda</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/000000/cloud.png" width="60" alt="IoT Core"/>
+        <br/>
+        <b>AWS IoT Core</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- Integrações de serviços em nuvem.
-- Melhorar minhas habilidades em **Infra** e **Provisionamento**.
+### 🔌 **IoT + Serverless: ESP32 + MQTT + Lambda**
 
-## 📣 Projetos em Destaque
+Atualmente estou aprofundando meus conhecimentos na integração entre **dispositivos físicos e a nuvem**, criando soluções completas de **Internet das Coisas (IoT)** com arquitetura serverless.
 
-Aqui estão alguns dos meus projetos mais recentes:
+#### 📡 **O que estou estudando:**
 
-- [**Projeto 1**: DispenserMQTT]([link_do_projeto](https://github.com/ildebrandomoraes/analisepreditivadeacidentesveiculares.git)) - Descrição breve do projeto.
-- [**Projeto 2**: Servidor de Automações]([link_do_projeto](https://github.com/ildebrandomoraes/mapas_calor.git)) - Descrição breve do projeto.
-- [**Projeto 3**: Dispositivos em nuvem ]([link_do_projeto](https://github.com/ildebrandomoraes/criptos.git)) - Descrição breve do projeto.
+| Tecnologia | Aplicação | Projetos em desenvolvimento |
+|------------|-----------|----------------------------|
+| **ESP32** | Microcontrolador com Wi-Fi/Bluetooth para coleta de dados e acionamento de dispositivos | ✅ Sensores de temperatura e umidade<br/>✅ Controle de relés via MQTT<br/>✅ Publicação de dados telemetria |
+| **MQTT** | Protocolo leve de mensageria para IoT (Quality of Service, Last Will, Retained Messages) | ✅ Broker Mosquitto local e na nuvem<br/>✅ Tópicos estruturados (`/casa/sala/temperatura`)<br/>✅ QoS 0, 1 e 2 |
+| **AWS IoT Core** | Gerenciamento de dispositivos e regras de mensageria na AWS | ✅ Thing registry e certificates<br/>✅ Regras SQL para roteamento<br/>✅ Shadow state |
+| **AWS Lambda** | Processamento serverless dos dados recebidos | ✅ Funções Python/Node.js<br/>✅ Integração com DynamoDB<br/>✅ Ações automáticas baseadas em telemetria |
 
----
-
-## 📬 Entre em contato
+#### 🚧 **Projetos práticos em andamento:**
 
 Se você está interessado em colaborar ou discutir projetos, me envie uma mensagem! Adoraria conectar com outros desenvolvedores e profissionais da área.
 
 - 📧 Email: [Brandevop@gmail.com](Brandevop@gmail.com)
 - 🔗 LinkedIn: [www.linkedin.com/in/ildebrandomoraes](www.linkedin.com/in/ildebrandomoraes)
+
 
 
