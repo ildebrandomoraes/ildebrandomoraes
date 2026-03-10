@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um cara que não se contenta só com o pouco,eu gosto de aprender sempre algo mais, sou simples porem sempre enchergando tudo 
+Sou um cara que não se contenta só com o pouco,eu gosto de aprender sempre algo mais, sou simples porem sempre enxergando tudo 
 meu proprósito para 2026 é ter um bom trabalho na área de TI e Desenvolvimento de cloud, não sou religioso, sou casado ,tenho dois cachorros e três gatos, gosto de tocar violão gosto de ouvir musica.
 
 - 👨‍💻 Acreditar que é possivel
