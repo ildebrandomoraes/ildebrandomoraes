@@ -1,191 +1,227 @@
 <div align="center">
 
 ```
-██╗██╗     ██████╗ ███████╗██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  ██████╗
-██║██║     ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔═══██╗
-██║██║     ██║  ██║█████╗  ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║
-██║██║     ██║  ██║██╔══╝  ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║   ██║
-██║███████╗██████╔╝███████╗██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝╚██████╔╝
-╚═╝╚══════╝╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
+____________  ___   _   _______ _____ 
+| ___ \ ___ \/ _ \ | \ | |  _  \  _  |
+| |_/ / |_/ / /_\ \|  \| | | | | | | |
+| ___ \    /|  _  || . ` | | | | | | |
+| |_/ / |\ \| | | || |\  | |/ /\ \_/ /
+\____/\_| \_\_| |_/\_| \_/___/  \___/
 ```
 
-### `Pentester • Developer • Cloud Engineer • IoT Specialist`
+```
+[ ILDEBRANDO MORAES ] — Offensive Security Specialist & Infrastructure Engineer
+```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Pentest+%7C+OSINT;Cloud+Infrastructure+%7C+AWS+%7C+IoT;Python+%7C+C%2B%2B+%7C+Infrastructure+as+Code;Always+learning%2C+always+hacking+%F0%9F%94%90)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Offensive+Security+%7C+Red+Team+%7C+Hardware+Hacking;Custom+Pentest+Tools+%7C+Raspberry+Pi+Pico+%7C+HID+Attack;OSINT+%7C+CVE+Research+%7C+Network+Exploitation;Infrastructure+as+Code+%7C+AWS+%7C+Cloud+Security)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildebrandomoraes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Brandevop@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Brandevop@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brand4ilde)
 
 </div>
 
 ---
 
-## 👤 Sobre Mim
+## $ whoami
 
-Sou **Ildebrando Moraes**, profissional de TI do interior de São Paulo com foco em **cibersegurança ofensiva**, **desenvolvimento de software** e **infraestrutura em nuvem**. Não me contento com o básico — estudo constantemente para entender sistemas de dentro para fora.
+```bash
+> Ildebrando Moraes
+> Offensive Security Specialist | Pentester | Infrastructure Engineer
+> Location: São Paulo, BR — Interior
+> Focus: Red Team Operations, Custom Tool Development, Cloud Security
+```
 
-Meu diferencial está na combinação rara entre **mentalidade ofensiva de segurança** e **capacidade de desenvolvimento e infraestrutura**, o que me permite tanto encontrar vulnerabilidades quanto construir soluções robustas para corrigi-las.
+Profissional de segurança ofensiva com experiência prática em pentest, desenvolvimento de ferramentas próprias e infraestrutura em nuvem. Não executo apenas ferramentas prontas — **eu as construo**.
 
-> *"Entender como atacar é o primeiro passo para saber como defender."*
+Minha abordagem combina mentalidade de adversário com capacidade de engenharia, o que me permite ir além do relatório padrão: entendo o sistema, exploro a fundo e proponho correções reais.
 
-- 🎯 **Objetivo 2026:** Atuar profissionalmente em cibersegurança e cloud em São Paulo
-- 🔭 Trabalhando em projetos de **Cloud**, **Automação** e **IoT Serverless**
-- 🎸 Toco violão e amo música nas horas vagas
-- 🐾 Casado, dois cachorros e três gatos
+> *"Tools are just tools. The weapon is the mind behind them."*
 
 ---
 
-## 🔐 Cibersegurança & Pentest
+## 🔴 Offensive Security
 
-> Profissional com conhecimento prático em técnicas ofensivas de segurança, OSINT e análise de vulnerabilidades. Todos os testes realizados em ambientes controlados e autorizados.
+### Hardware Hacking & Custom Tool Development
 
-### 🎯 Áreas de Atuação
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  PROJETO: HID Attack Tool — Raspberry Pi Pico                       │
+├─────────────────────────────────────────────────────────────────────┤
+│  Hardware : Raspberry Pi Pico (emulação de teclado HID)             │
+│  Payload  : WinPEAS — enumeração automatizada de sistemas Windows   │
+│  Output   : resultado.txt + coleta via nmap integrado               │
+│  Scripts  : code.py, run.bat, lib customizada                       │
+│  Target   : privilege escalation enum em sistemas físicos           │
+│                                                                     │
+│  /hid-attack/                                                       │
+│  ├── code.py        ← payload principal (CircuitPython)             │
+│  ├── run.bat        ← execução Windows                              │
+│  ├── lib/           ← bibliotecas customizadas                      │
+│  ├── nmap           ← scanner integrado                             │
+│  └── resultado.txt  ← output de enumeração                         │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-| Domínio | Técnicas | Ferramentas |
+---
+
+### Wireless Exploitation
+
+```python
+capabilities = {
+    "WPA2/WPA3": [
+        "handshake capture",
+        "PMKID attack",
+        "network poisoning",
+        "deauth flood"
+    ],
+    "Wi-Fi Spoofing": [
+        "evil twin AP",
+        "rogue access point",
+        "captive portal injection"
+    ],
+    "Traffic Analysis": [
+        "full packet capture",
+        "MITM interception",
+        "protocol dissection",
+        "credential sniffing"
+    ],
+    "tools": [
+        "Aircrack-ng", "Hcxdumptool", "Hcxtools",
+        "Bettercap", "Wifite", "Wireshark", "tcpdump"
+    ]
+}
+```
+
+---
+
+### Credential & Hash Operations
+
+```
+DUMP EXTRACTION ──► SAM dump / LSASS / /etc/shadow / memory forensics
+HASH RECOGNITION ─► MD5 · SHA1 · SHA256 · NTLM · bcrypt · WPA PMKID
+CRACKING ─────────► Hashcat (GPU rules) · John the Ripper · custom masks
+BRUTEFORCE ───────► Hydra · Medusa · CrackMapExec · custom wordlists
+```
+
+---
+
+### Network & System Exploitation
+
+| Técnica | Ferramentas | Resultado |
 |---|---|---|
-| **Redes Wireless** | Captura de handshake WPA2/WPA3, envenenamento de rede, spoofing de Wi-Fi | Aircrack-ng, Wifite, Bettercap, Hcxdumptool |
-| **Reconhecimento** | Mapeamento de sites, varredura de portas, fingerprinting, enumeração | Nmap, Masscan, theHarvester, Amass, WhatWeb |
-| **Credenciais** | Extração de dumps, reconhecimento de hashes, brute force, wordlists | Hashcat, John the Ripper, Hydra, Medusa |
-| **Vulnerabilidades** | Análise de CVEs, exploração controlada, relatório de impacto | Metasploit, Nuclei, OpenVAS, Exploit-DB |
-| **Captura de Tráfego** | Interceptação de pacotes, análise de protocolos, MITM | Wireshark, tcpdump, mitmproxy, Ettercap |
-| **Engenharia Social** | Phishing técnico, pretexting, awareness | SET (Social-Engineer Toolkit) |
-| **Gerenciamento de Contas** | Análise de controles de acesso, autenticação, privilege escalation | Técnicas manuais, scripts personalizados |
+| Reconhecimento ativo | Nmap, Masscan, Amass | Mapa completo da superfície de ataque |
+| Exploração de CVEs | Metasploit, Nuclei, Exploit-DB | Acesso não autorizado controlado |
+| Web Attacks | ZAP, Burp Suite, sqlmap, ffuf | XSS, SQLi, LFI, IDOR, RFI |
+| Captura de tráfego | Wireshark, mitmproxy, Ettercap | Credenciais e sessões interceptadas |
+| Engenharia Social | SET, phishing técnico | Vetor humano de comprometimento |
+| Enumeração de sistemas | WinPEAS, LinPEAS, BloodHound | Privilege escalation paths |
 
 ---
 
-### 🕵️ OSINT (Open Source Intelligence)
+## 🕵️ OSINT Operations
 
+### WhatsApp Intelligence
+Coleta automatizada de metadados públicos — dispositivos vinculados, configurações de privacidade, verificação de contas Business, análise de exposição via RapidAPI.
+
+### Camera & CCTV Reconnaissance
+Mapeamento de câmeras expostas publicamente, identificação de painéis sem autenticação, análise de sistemas CFTV corporativos.
+
+### Web Recon & CVE Correlation
+```bash
+# Pipeline de reconhecimento
+amass enum -d target.com -o subdomains.txt
+nmap -sV -sC --script vuln -iL subdomains.txt
+nuclei -l subdomains.txt -severity critical,high,medium
+# correlação automática com NIST NVD + MITRE CVE
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                      OSINT CAPABILITIES                         │
-├─────────────────┬───────────────────────────────────────────────┤
-│  WhatsApp OSINT │ Extração de metadados, dispositivos, privacy  │
-│                 │ settings, verificação Business via RapidAPI   │
-├─────────────────┼───────────────────────────────────────────────┤
-│  Câmeras OSINT  │ Mapeamento de câmeras expostas, análise de    │
-│                 │ circuitos de CFTV, identificação de sistemas  │
-├─────────────────┼───────────────────────────────────────────────┤
-│  Web Recon      │ Mapeamento de superfície de ataque, análise   │
-│                 │ de vulnerabilidades públicas, CVE tracking     │
-└─────────────────┴───────────────────────────────────────────────┘
-```
 
 ---
 
-### 🔎 CVE & Vulnerability Research
-
-Acompanho e analiso vulnerabilidades publicadas no **NIST NVD** e no **MITRE CVE**, com foco em:
-
-- Identificação de CVEs críticos (CVSS ≥ 7.0) em sistemas-alvo
-- Correlação de versões de software com vulnerabilidades conhecidas
-- Testes de exploração controlada baseados em PoCs públicos
-- Documentação de impacto e recomendações de mitigação
-
----
-
-## ☁️ Cloud & Infraestrutura como Código
+## ☁️ Cloud & Infrastructure as Code
 
 ```yaml
-stack:
-  cloud:
-    - AWS EC2 / Lambda / S3 / IoT Core
-    - Docker & containerização
-    - Ubuntu Server / Linux administração
-  iac:
-    - YAML / CloudFormation
-    - Docker Compose
-    - Scripts de automação Python
-  iot:
-    - ESP32 (Wi-Fi + Bluetooth)
-    - MQTT / Mosquitto Broker
-    - AWS IoT Core + Shadow State
-    - Sensores e telemetria serverless
+cloud: AWS
+services:
+  compute: [EC2, Lambda, ECS]
+  storage: [S3, DynamoDB]
+  iot: [IoT Core, IoT Rules, Shadow State]
+  messaging: [MQTT, SQS]
+iac:
+  - CloudFormation (YAML templates)
+  - Docker / Docker Compose
+  - Python automation & boto3
+cloud_security_assessments:
+  - IAM misconfiguration & privilege escalation
+  - S3 bucket exposure & ACL analysis
+  - Lambda function security review
+  - CloudTrail log analysis
+  - Security Group rule auditing
 ```
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Técnico
 
-### Linguagens & Frameworks
+**Linguagens**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-### Cloud & DevOps
+**Infraestrutura**
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Segurança (Ferramentas)
+**Offensive Security**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
 
-## 🌱 Atualmente Aprendendo
-
-<div align="center">
-
-| ESP32 | MQTT | AWS Lambda | AWS IoT Core |
-|:---:|:---:|:---:|:---:|
-| Microcontrolador IoT | Protocolo de mensageria | Serverless Functions | Gerenciamento de devices |
-| ✅ Sensores temp/umidade | ✅ Broker Mosquitto | ✅ Funções Python/Node | ✅ Thing registry |
-| ✅ Controle de relés | ✅ QoS 0, 1 e 2 | ✅ Integração DynamoDB | ✅ Shadow state |
-| ✅ Telemetria MQTT | ✅ Tópicos estruturados | ✅ Ações automáticas | ✅ Regras SQL |
-
-</div>
-
----
-
-## ⚠️ Ética & Responsabilidade
-
-> Todas as técnicas de cibersegurança descritas neste perfil são utilizadas exclusivamente em:
-> - ✅ Ambientes próprios e laboratórios controlados
-> - ✅ Sistemas com autorização explícita dos proprietários
-> - ✅ Fins educacionais e de pesquisa em segurança
-> - ✅ Conformidade com a **Lei nº 12.737/2012** (Lei Carolina Dieckmann) e **LGPD**
->
-> O conhecimento ofensivo tem como único propósito fortalecer a defesa de sistemas e conscientizar sobre riscos reais.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brand4ilde&show_icons=true&theme=chartreuse-dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brand4ilde&layout=compact&theme=chartreuse-dark&hide_border=true)
-
-</div>
-
----
-
-## 📬 Contato
-
-<div align="center">
-
-| Canal | Link |
-|---|---|
-| 📧 Email | [Brandevop@gmail.com](mailto:Brandevop@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/ildebrandomoraes](https://www.linkedin.com/in/ildebrandomoraes) |
-| 🐙 GitHub | [github.com/brand4ilde](https://github.com/brand4ilde) |
-
-*Aberto a conversas sobre cibersegurança, cloud, IoT e novas oportunidades!* 🚀
-
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=brand4ilde&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
+## 🧰 Ferramentas Desenvolvidas
 
 ```
-[ SYSTEM ACCESS GRANTED ] — Ildebrando Moraes © 2026
+◆ HID Attack Tool      Raspberry Pi Pico + WinPEAS, emulação HID para
+                       enumeração física de sistemas Windows
+
+◆ WhatsApp OSINT       Extração automatizada de metadados e análise
+                       de exposição pública via API
+
+◆ Network Recon Suite  Scripts customizados de reconhecimento com
+                       correlação automática de CVEs
+
+◆ [em construção]      Novas ferramentas ofensivas — repositórios em breve
 ```
+
+---
+
+## ⚖️ Conduta
+
+```
+Engagements realizados com escopo definido e autorização explícita.
+Conformidade: Lei 12.737/2012 · LGPD · Ética Profissional em Segurança.
+```
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brand4ilde&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brand4ilde&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)
+
+---
+
+```bash
+$ whoami && echo "Offensive Security | Custom Tools | Red Team"
+ildebrando
+Offensive Security | Custom Tools | Red Team
+```
+
+![Visitors](https://komarev.com/ghpvc/?username=brand4ilde&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
