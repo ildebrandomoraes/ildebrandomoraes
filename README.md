@@ -6,11 +6,11 @@ ____________  ___   _   _______ _____
 | |_/ / |_/ / /_\ \|  \| | | | | | | |
 | ___ \    /|  _  || . ` | | | | | | |
 | |_/ / |\ \| | | || |\  | |/ /\ \_/ /
-\____/\_| \_\_| |_/\_| \_/___/  \___/
+\____/\_| \_\_| |_/\_| \_/___/  \___/ 
 ```
 
 ```
-[ ILDEBRANDO MORAES ] — Offensive Security Specialist & Infrastructure Engineer
+[ BRANDO ] — Offensive Security Specialist & Infrastructure Engineer
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Offensive+Security+%7C+Red+Team+%7C+Hardware+Hacking;Custom+Pentest+Tools+%7C+Raspberry+Pi+Pico+%7C+HID+Attack;OSINT+%7C+CVE+Research+%7C+Network+Exploitation;Infrastructure+as+Code+%7C+AWS+%7C+Cloud+Security)
@@ -26,10 +26,10 @@ ____________  ___   _   _______ _____
 ## $ whoami
 
 ```bash
-> Ildebrando Moraes
-> Offensive Security Specialist | Pentester | Infrastructure Engineer
-> Location: São Paulo, BR — Interior
-> Focus: Red Team Operations, Custom Tool Development, Cloud Security
+> alias: BRANDO
+> role:  Offensive Security Specialist | Pentester | Infrastructure Engineer
+> base:  São Paulo, BR — Interior
+> focus: Red Team Operations | Custom Tool Development | Cloud Security
 ```
 
 Profissional de segurança ofensiva com experiência prática em pentest, desenvolvimento de ferramentas próprias e infraestrutura em nuvem. Não executo apenas ferramentas prontas — **eu as construo**.
@@ -129,7 +129,7 @@ Mapeamento de câmeras expostas publicamente, identificação de painéis sem au
 
 ### Web Recon & CVE Correlation
 ```bash
-# Pipeline de reconhecimento
+# Pipeline de reconhecimento — by BRANDO
 amass enum -d target.com -o subdomains.txt
 nmap -sV -sC --script vuln -iL subdomains.txt
 nuclei -l subdomains.txt -severity critical,high,medium
@@ -141,6 +141,7 @@ nuclei -l subdomains.txt -severity critical,high,medium
 ## ☁️ Cloud & Infrastructure as Code
 
 ```yaml
+author: BRANDO
 cloud: AWS
 services:
   compute: [EC2, Lambda, ECS]
@@ -183,7 +184,7 @@ cloud_security_assessments:
 
 ---
 
-## 🧰 Ferramentas Desenvolvidas
+## 🧰 Ferramentas Desenvolvidas por BRANDO
 
 ```
 ◆ HID Attack Tool      Raspberry Pi Pico + WinPEAS, emulação HID para
@@ -217,8 +218,9 @@ Conformidade: Lei 12.737/2012 · LGPD · Ética Profissional em Segurança.
 ---
 
 ```bash
-$ whoami && echo "Offensive Security | Custom Tools | Red Team"
-ildebrando
+$ whoami
+BRANDO
+$ echo "Offensive Security | Custom Tools | Red Team"
 Offensive Security | Custom Tools | Red Team
 ```
 
