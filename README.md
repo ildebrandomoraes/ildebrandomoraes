@@ -1,81 +1,191 @@
-# Olá, Eu sou Ildebrando Moraes👋
-
-
-## 🚀 Sobre Mim
-
-Sou um cara que não se contenta só com o pouco. Eu gosto de aprender sempre algo a mais. Sou simples, porém sempre procuro enxergar tudo. Meu propósito para 2026 é ter um bom trabalho na área de TI e desenvolvimento de cloud. Não sou religioso, sou casado, tenho dois cachorros e três gatos. Gosto de tocar violão e de ouvir música. 🎸🎶
-
-- 👨‍💻 Acreditar que é possivel
-- 💻 Meu foco está em **AaC**,**IA** e **IOT**.
-- 🔭 Estou trabalhando em projetos de **Cloud** e **Automação**.
-- 📫 Como me encontrar: [Brandevop@gmail.com](Brandevop@gmail.com)
-- 💬 Me mande uma mensagem! Estou sempre aberto a conversas sobre tecnologia e novos projetos.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" /><img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" /><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=blackJogos" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-
-
----
-
-## 🌱 O que estou aprendendo atualmente
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/esp32.png" width="60" alt="ESP32"/>
-        <br/>
-        <b>ESP32</b>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/mqtt.png" width="60" alt="MQTT"/>
-        <br/>
-        <b>MQTT</b>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60" alt="AWS Lambda"/>
-        <br/>
-        <b>AWS Lambda</b>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/000000/cloud.png" width="60" alt="IoT Core"/>
-        <br/>
-        <b>AWS IoT Core</b>
-      </td>
-    </tr>
-  </table>
+
+```
+██╗██╗     ██████╗ ███████╗██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  ██████╗
+██║██║     ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔═══██╗
+██║██║     ██║  ██║█████╗  ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║
+██║██║     ██║  ██║██╔══╝  ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║   ██║
+██║███████╗██████╔╝███████╗██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝╚██████╔╝
+╚═╝╚══════╝╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
+```
+
+### `Pentester • Developer • Cloud Engineer • IoT Specialist`
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Pentest+%7C+OSINT;Cloud+Infrastructure+%7C+AWS+%7C+IoT;Python+%7C+C%2B%2B+%7C+Infrastructure+as+Code;Always+learning%2C+always+hacking+%F0%9F%94%90)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildebrandomoraes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Brandevop@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brand4ilde)
+
 </div>
 
-### 🔌 **IoT + Serverless: ESP32 + MQTT + Lambda**
+---
 
-Atualmente estou aprofundando meus conhecimentos na integração entre **dispositivos físicos e a nuvem**, criando soluções completas de **Internet das Coisas (IoT)** com arquitetura serverless.
+## 👤 Sobre Mim
 
-#### 📡 **O que estou estudando:**
+Sou **Ildebrando Moraes**, profissional de TI do interior de São Paulo com foco em **cibersegurança ofensiva**, **desenvolvimento de software** e **infraestrutura em nuvem**. Não me contento com o básico — estudo constantemente para entender sistemas de dentro para fora.
 
-| Tecnologia | Aplicação | Projetos em desenvolvimento |
-|------------|-----------|----------------------------|
-| **ESP32** | Microcontrolador com Wi-Fi/Bluetooth para coleta de dados e acionamento de dispositivos | ✅ Sensores de temperatura e umidade<br/>✅ Controle de relés via MQTT<br/>✅ Publicação de dados telemetria |
-| **MQTT** | Protocolo leve de mensageria para IoT (Quality of Service, Last Will, Retained Messages) | ✅ Broker Mosquitto local e na nuvem<br/>✅ Tópicos estruturados (`/casa/sala/temperatura`)<br/>✅ QoS 0, 1 e 2 |
-| **AWS IoT Core** | Gerenciamento de dispositivos e regras de mensageria na AWS | ✅ Thing registry e certificates<br/>✅ Regras SQL para roteamento<br/>✅ Shadow state |
-| **AWS Lambda** | Processamento serverless dos dados recebidos | ✅ Funções Python/Node.js<br/>✅ Integração com DynamoDB<br/>✅ Ações automáticas baseadas em telemetria |
+Meu diferencial está na combinação rara entre **mentalidade ofensiva de segurança** e **capacidade de desenvolvimento e infraestrutura**, o que me permite tanto encontrar vulnerabilidades quanto construir soluções robustas para corrigi-las.
 
-#### 🚧 **Projetos práticos em andamento:**
+> *"Entender como atacar é o primeiro passo para saber como defender."*
 
-Se você está interessado em colaborar ou discutir projetos, me envie uma mensagem! Adoraria conectar com outros desenvolvedores e profissionais da área.
+- 🎯 **Objetivo 2026:** Atuar profissionalmente em cibersegurança e cloud em São Paulo
+- 🔭 Trabalhando em projetos de **Cloud**, **Automação** e **IoT Serverless**
+- 🎸 Toco violão e amo música nas horas vagas
+- 🐾 Casado, dois cachorros e três gatos
 
-- 📧 Email: [Brandevop@gmail.com](Brandevop@gmail.com)
-- 🔗 LinkedIn: [www.linkedin.com/in/ildebrandomoraes](www.linkedin.com/in/ildebrandomoraes)
+---
 
+## 🔐 Cibersegurança & Pentest
 
+> Profissional com conhecimento prático em técnicas ofensivas de segurança, OSINT e análise de vulnerabilidades. Todos os testes realizados em ambientes controlados e autorizados.
 
+### 🎯 Áreas de Atuação
+
+| Domínio | Técnicas | Ferramentas |
+|---|---|---|
+| **Redes Wireless** | Captura de handshake WPA2/WPA3, envenenamento de rede, spoofing de Wi-Fi | Aircrack-ng, Wifite, Bettercap, Hcxdumptool |
+| **Reconhecimento** | Mapeamento de sites, varredura de portas, fingerprinting, enumeração | Nmap, Masscan, theHarvester, Amass, WhatWeb |
+| **Credenciais** | Extração de dumps, reconhecimento de hashes, brute force, wordlists | Hashcat, John the Ripper, Hydra, Medusa |
+| **Vulnerabilidades** | Análise de CVEs, exploração controlada, relatório de impacto | Metasploit, Nuclei, OpenVAS, Exploit-DB |
+| **Captura de Tráfego** | Interceptação de pacotes, análise de protocolos, MITM | Wireshark, tcpdump, mitmproxy, Ettercap |
+| **Engenharia Social** | Phishing técnico, pretexting, awareness | SET (Social-Engineer Toolkit) |
+| **Gerenciamento de Contas** | Análise de controles de acesso, autenticação, privilege escalation | Técnicas manuais, scripts personalizados |
+
+---
+
+### 🕵️ OSINT (Open Source Intelligence)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      OSINT CAPABILITIES                         │
+├─────────────────┬───────────────────────────────────────────────┤
+│  WhatsApp OSINT │ Extração de metadados, dispositivos, privacy  │
+│                 │ settings, verificação Business via RapidAPI   │
+├─────────────────┼───────────────────────────────────────────────┤
+│  Câmeras OSINT  │ Mapeamento de câmeras expostas, análise de    │
+│                 │ circuitos de CFTV, identificação de sistemas  │
+├─────────────────┼───────────────────────────────────────────────┤
+│  Web Recon      │ Mapeamento de superfície de ataque, análise   │
+│                 │ de vulnerabilidades públicas, CVE tracking     │
+└─────────────────┴───────────────────────────────────────────────┘
+```
+
+---
+
+### 🔎 CVE & Vulnerability Research
+
+Acompanho e analiso vulnerabilidades publicadas no **NIST NVD** e no **MITRE CVE**, com foco em:
+
+- Identificação de CVEs críticos (CVSS ≥ 7.0) em sistemas-alvo
+- Correlação de versões de software com vulnerabilidades conhecidas
+- Testes de exploração controlada baseados em PoCs públicos
+- Documentação de impacto e recomendações de mitigação
+
+---
+
+## ☁️ Cloud & Infraestrutura como Código
+
+```yaml
+stack:
+  cloud:
+    - AWS EC2 / Lambda / S3 / IoT Core
+    - Docker & containerização
+    - Ubuntu Server / Linux administração
+  iac:
+    - YAML / CloudFormation
+    - Docker Compose
+    - Scripts de automação Python
+  iot:
+    - ESP32 (Wi-Fi + Bluetooth)
+    - MQTT / Mosquitto Broker
+    - AWS IoT Core + Shadow State
+    - Sensores e telemetria serverless
+```
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Linguagens & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+### Segurança (Ferramentas)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+<div align="center">
+
+| ESP32 | MQTT | AWS Lambda | AWS IoT Core |
+|:---:|:---:|:---:|:---:|
+| Microcontrolador IoT | Protocolo de mensageria | Serverless Functions | Gerenciamento de devices |
+| ✅ Sensores temp/umidade | ✅ Broker Mosquitto | ✅ Funções Python/Node | ✅ Thing registry |
+| ✅ Controle de relés | ✅ QoS 0, 1 e 2 | ✅ Integração DynamoDB | ✅ Shadow state |
+| ✅ Telemetria MQTT | ✅ Tópicos estruturados | ✅ Ações automáticas | ✅ Regras SQL |
+
+</div>
+
+---
+
+## ⚠️ Ética & Responsabilidade
+
+> Todas as técnicas de cibersegurança descritas neste perfil são utilizadas exclusivamente em:
+> - ✅ Ambientes próprios e laboratórios controlados
+> - ✅ Sistemas com autorização explícita dos proprietários
+> - ✅ Fins educacionais e de pesquisa em segurança
+> - ✅ Conformidade com a **Lei nº 12.737/2012** (Lei Carolina Dieckmann) e **LGPD**
+>
+> O conhecimento ofensivo tem como único propósito fortalecer a defesa de sistemas e conscientizar sobre riscos reais.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brand4ilde&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brand4ilde&layout=compact&theme=chartreuse-dark&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+| Canal | Link |
+|---|---|
+| 📧 Email | [Brandevop@gmail.com](mailto:Brandevop@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/ildebrandomoraes](https://www.linkedin.com/in/ildebrandomoraes) |
+| 🐙 GitHub | [github.com/brand4ilde](https://github.com/brand4ilde) |
+
+*Aberto a conversas sobre cibersegurança, cloud, IoT e novas oportunidades!* 🚀
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=brand4ilde&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
+
+```
+[ SYSTEM ACCESS GRANTED ] — Ildebrando Moraes © 2026
+```
+</div>
