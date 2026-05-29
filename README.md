@@ -26,7 +26,7 @@ ____________  ___   _   _______ _____
 ```bash
 > alias: BRANDO
 > role:  Offensive Security Specialist | Pentester | Infrastructure Engineer
-> base:  São Paulo, BR — Interior
+> base:  São Paulo, BR — Capital
 > focus: Red Team Operations | Custom Tool Development | Cloud Security
 ```
 
