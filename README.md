@@ -15,9 +15,7 @@ ____________  ___   _   _______ _____
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Offensive+Security+%7C+Red+Team+%7C+Hardware+Hacking;Custom+Pentest+Tools+%7C+Raspberry+Pi+Pico+%7C+HID+Attack;OSINT+%7C+CVE+Research+%7C+Network+Exploitation;Infrastructure+as+Code+%7C+AWS+%7C+Cloud+Security)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildebrandomoraes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Brandevop@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brand4ilde)
+
 
 </div>
 
